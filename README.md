@@ -1,5 +1,7 @@
 Video Demo: https://youtu.be/VlpYj94x2EM?si=NDflm0Msnc88ewQd
+
 Description:
+
 The Student Task Management System stands as a sophisticated and versatile solution meticulously crafted to empower students in the art of efficient and organized task management. At its heart lies an intuitive and user-friendly Task Entry Interface, providing a seamless gateway for users to input intricate details about their routine tasks. This interface not only simplifies the process of data entry but also acts as a personalized portal for students to seamlessly integrate their daily responsibilities into the system.
 
 Among the standout features that distinguish this system is its robust Task Scheduling functionality. This empowering feature enables students to proactively schedule upcoming tasks, allowing for the meticulous setting of specific dates and times for each activity. Beyond mere time management, this feature ensures that crucial deadlines are consistently met. To complement this proactive approach, the system incorporates automated Deadline Notifications, delivering timely reminders as task deadlines approach. This strategic integration serves as a safeguard against oversights and contributes to a proactive and organized approach to task completion.
